@@ -1,0 +1,7 @@
+C:\Users\СадыковаА\source\repos\ShopDB\ShopDB\obj\Debug\ShopDB.csprojResolveAssemblyReference.cache
+C:\Users\СадыковаА\source\repos\ShopDB\ShopDB\obj\Debug\ShopDB.csproj.CoreCompileInputs.cache
+C:\Users\СадыковаА\source\repos\ShopDB\ShopDB\bin\Debug\ShopDB.exe.config
+C:\Users\СадыковаА\source\repos\ShopDB\ShopDB\bin\Debug\ShopDB.exe
+C:\Users\СадыковаА\source\repos\ShopDB\ShopDB\bin\Debug\ShopDB.pdb
+C:\Users\СадыковаА\source\repos\ShopDB\ShopDB\obj\Debug\ShopDB.exe
+C:\Users\СадыковаА\source\repos\ShopDB\ShopDB\obj\Debug\ShopDB.pdb
